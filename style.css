@@ -1,0 +1,148 @@
+.charfont-tinier span {
+    color: transparent;
+    margin-left: calc(1px * var(--scale));
+    display: inline-block;
+    background-size: calc(5px * var(--scale));
+    width: calc(3px * var(--scale));
+    height: calc(4px * var(--scale));
+    overflow: hidden;
+    background-repeat: no-repeat;
+    image-rendering: optimizeSpeed;
+    image-rendering: -moz-crisp-edges;
+    image-rendering: -o-crisp-edges;
+    image-rendering: -webkit-optimize-contrast;
+    image-rendering: pixelated;
+    image-rendering: optimize-contrast;
+    -ms-interpolation-mode: nearest-neighbor;
+    filter:invert(100%);
+}
+.charfont-tinier{
+    --scale:1;
+}
+.charfont-big .charfont-tinier{
+    --scale:5;
+}
+.charfont-tinier .charfontA {
+    background-position: 0px calc(-0px * var(--scale));
+}
+.charfont-tinier .charfontB {
+    background-position: 0px calc(-4px * var(--scale));
+}
+.charfont-tinier .charfontC {
+    background-position: 0px calc(-8px * var(--scale));
+}
+.charfont-tinier .charfontD {
+    background-position: 0px calc(-12px * var(--scale));
+}
+.charfont-tinier .charfontE {
+    background-position: 0px calc(-16px * var(--scale));
+}
+.charfont-tinier .charfontF {
+    background-position: 0px calc(-20px * var(--scale));
+}
+.charfont-tinier .charfontG {
+    background-position: 0px calc(-24px * var(--scale));
+}
+.charfont-tinier .charfontH {
+    background-position: 0px calc(-28px * var(--scale));
+}
+.charfont-tinier .charfontI {
+    background-position: 0px calc(-32px * var(--scale));
+    width: calc(1px * var(--scale));
+}
+.charfont-tinier .charfontJ {
+    background-position: 0px calc(-36px * var(--scale));
+    width: calc(2px * var(--scale));
+}
+.charfont-tinier .charfontK {
+    background-position: 0px calc(-40px * var(--scale));
+}
+.charfont-tinier .charfontL {
+    background-position: 0px calc(-44px * var(--scale));
+    width: calc(2px * var(--scale));
+}
+.charfont-tinier .charfontM {
+    background-position: 0px calc(-48px * var(--scale));
+    width: calc(5px * var(--scale));
+}
+.charfont-tinier .charfontN {
+    background-position: 0px calc(-52px * var(--scale));
+    width: calc(4px * var(--scale));
+}
+.charfont-tinier .charfontO {
+    background-position: 0px calc(-56px * var(--scale));
+}
+.charfont-tinier .charfontP {
+    background-position: 0px calc(-60px * var(--scale));
+    width: calc(2px * var(--scale));
+}
+.charfont-tinier .charfontQ {
+    background-position: 0px calc(-64px * var(--scale));
+    width: calc(4px * var(--scale));
+}
+.charfont-tinier .charfontR {
+    background-position: 0px calc(-68px * var(--scale));
+}
+.charfont-tinier .charfontS {
+    background-position: 0px calc(-72px * var(--scale));
+}
+.charfont-tinier .charfontT {
+    background-position: 0px calc(-76px * var(--scale));
+}
+.charfont-tinier .charfontU {
+    background-position: 0px calc(-80px * var(--scale));
+}
+.charfont-tinier .charfontV {
+    background-position: 0px calc(-84px * var(--scale));
+}
+.charfont-tinier .charfontW {
+    background-position: 0px calc(-88px * var(--scale));
+    width: calc(5px * var(--scale));
+}
+.charfont-tinier .charfontX {
+    background-position: 0px calc(-92px * var(--scale));
+}
+.charfont-tinier .charfontY {
+    background-position: 0px calc(-96px * var(--scale));
+}
+.charfont-tinier .charfontZ {
+    background-position: 0px calc(-100px * var(--scale));
+}
+.charfont-tinier .charfont0 {
+    background-position: 0px calc(-104px * var(--scale));
+}
+.charfont-tinier .charfont1 {
+    background-position: 0px calc(-108px * var(--scale));
+    width: calc(2px * var(--scale));
+}
+.charfont-tinier .charfont2 {
+    background-position: 0px calc(-112px * var(--scale));
+}
+.charfont-tinier .charfont3 {
+    background-position: 0px calc(-116px * var(--scale));
+}
+.charfont-tinier .charfont4 {
+    background-position: 0px calc(-120px * var(--scale));
+}
+.charfont-tinier .charfont5 {
+    background-position: 0px calc(-124px * var(--scale));
+}
+.charfont-tinier .charfont6 {
+    background-position: 0px calc(-128px * var(--scale));
+}
+.charfont-tinier .charfont7 {
+    background-position: 0px calc(-132px * var(--scale));
+}
+.charfont-tinier .charfont8 {
+    background-position: 0px calc(-136px * var(--scale));
+}
+.charfont-tinier .charfont9 {
+    background-position: 0px calc(-140px * var(--scale));
+}
+.charfont-tinier .charfontdot {
+    background-position: 0px calc(-144px * var(--scale));
+    width: calc(1px * var(--scale));
+}
+.charfont-tinier .charfontSP {
+    background: transparent
+}
